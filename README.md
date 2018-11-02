@@ -1,2 +1,2 @@
 # neural-network
-Exercises and projects about neural networks
+This repository contains some exercises and projects done in the neural network discipline
