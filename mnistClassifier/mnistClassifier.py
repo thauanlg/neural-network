@@ -1,5 +1,5 @@
 """
-This script creates some classifiers for the mnisi dataset using tensorflow cnn. Will be varied two parameters:
+This script creates some classifiers for the mnist dataset using tensorflow cnn. Will be varied two parameters:
     - the number of features maps used in convolutional layer
     - the size of filters in convolution layer
 """
